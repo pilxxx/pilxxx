@@ -41,7 +41,7 @@ I like things that are well built: clean code, clear charts and design with inte
 | project | what it is | stack |
 |---|---|---|
 | [**BloodLust**](https://github.com/pilxxx/BloodlustArt.git) | A game made with friends | 3dsMax · Unity · C#|
-| [**farkle**](https://github.com/pilxxx/MauriTarjetaDiciembre) | The Farkle dice game, built as a team | R |
+| [**SUBE**](https://github.com/pilxxx/MauriTarjetaDiciembre) | The Farkle dice game, built as a team | R |
 | [**portal-de-noticias**](https://github.com/pilxxx/proyectoTallerdeInternet) | A news site with a live dollar-rate API and login | HTML · CSS · JS |
 | [**negativos**](to be uploaded) | An R package documented with `roxygen2` and `devtools` | R |
 | [**uso-de-ia**](to be uploaded) | Exploratory analysis of how students use AI | R · tidyverse · ggplot2 |
@@ -75,7 +75,7 @@ Me gustan las cosas bien construidas: el código prolijo, los gráficos claros y
 | proyecto | qué es | stack |
 |---|---|---|
 | [**BloodLust**](https://github.com/pilxxx/BloodlustArt.git) | Juego realizado con amigos | 3dsMax · Unity · C#|
-| [**farkle**](https://github.com/pilxxx/MauriTarjetaDiciembre) | Una copia de la tarjeta SUBE | C# |
+| [**SUBE**](https://github.com/pilxxx/MauriTarjetaDiciembre) | Una copia de la tarjeta SUBE | C# |
 | [**portal-de-noticias**](https://github.com/pilxxx/proyectoTallerdeInternet) | Portal web con API de cotización del dólar y login | HTML · CSS · JS |
 | [**negativos**](en proceso) | Paquete de R documentado con `roxygen2` y `devtools` | R |
 | [**uso-de-ia**](en proceso) | Análisis exploratorio sobre el uso de IA entre estudiantes | R · tidyverse · ggplot2 |
