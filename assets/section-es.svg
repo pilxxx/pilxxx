@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="110" viewBox="0 0 900 110" role="img" aria-label="Español">
+<rect x="0.5" y="0.5" width="899" height="109" rx="18" fill="#f7f2ec" stroke="#e2d6c9"/>
+<line x1="50" y1="1" x2="50" y2="109" stroke="#ece3d9" stroke-width="0.6"/>
+<line x1="100" y1="1" x2="100" y2="109" stroke="#ece3d9" stroke-width="0.6"/>
+<line x1="150" y1="1" x2="150" y2="109" stroke="#ece3d9" stroke-width="0.6"/>
+<line x1="200" y1="1" x2="200" y2="109" stroke="#ece3d9" stroke-width="0.6"/>
+<line x1="250" y1="1" x2="250" y2="109" stroke="#ece3d9" stroke-width="0.6"/>
+<line x1="300" y1="1" x2="300" y2="109" stroke="#ece3d9" stroke-width="0.6"/>
+<line x1="350" y1="1" x2="350" y2="109" stroke="#ece3d9" stroke-width="0.6"/>
+<line x1="400" y1="1" x2="400" y2="109" stroke="#ece3d9" stroke-width="0.6"/>
+<line x1="450" y1="1" x2="450" y2="109" stroke="#ece3d9" stroke-width="0.6"/>
+<line x1="500" y1="1" x2="500" y2="109" stroke="#ece3d9" stroke-width="0.6"/>
+<line x1="550" y1="1" x2="550" y2="109" stroke="#ece3d9" stroke-width="0.6"/>
+<line x1="600" y1="1" x2="600" y2="109" stroke="#ece3d9" stroke-width="0.6"/>
+<line x1="650" y1="1" x2="650" y2="109" stroke="#ece3d9" stroke-width="0.6"/>
+<line x1="700" y1="1" x2="700" y2="109" stroke="#ece3d9" stroke-width="0.6"/>
+<line x1="750" y1="1" x2="750" y2="109" stroke="#ece3d9" stroke-width="0.6"/>
+<line x1="800" y1="1" x2="800" y2="109" stroke="#ece3d9" stroke-width="0.6"/>
+<line x1="850" y1="1" x2="850" y2="109" stroke="#ece3d9" stroke-width="0.6"/>
+<circle cx="70" cy="55" r="32" fill="#c2185b"><animate attributeName="fill" values="#c2185b;#b5394a;#c2185b" dur="10s" begin="0s" repeatCount="indefinite"/></circle>
+<path d="M 108 87 A 26 26 0 0 1 160 87 Z" fill="#e79ab3"><animate attributeName="fill" values="#e79ab3;#c2185b;#e79ab3" dur="12s" begin="1s" repeatCount="indefinite"/></path>
+<circle cx="134" cy="34" r="9" fill="none" stroke="#2a2230" stroke-width="1.2"/>
+<line x1="100" y1="87" x2="170" y2="87" stroke="#2a2230" stroke-width="1.1"/>
+<text x="205" y="44" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="3" fill="#c2185b">02 · ES</text>
+<text x="203" y="80" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-style="italic" fill="#2a2230">Español</text>
+<line x1="430" y1="66" x2="800" y2="66" stroke="#2a2230" stroke-width="0.9"/>
+<circle cx="822" cy="66" r="6" fill="#c2185b"><animate attributeName="r" values="6;4;6" dur="3s" begin="0.0s" repeatCount="indefinite"/></circle>
+<circle cx="842" cy="66" r="6" fill="#b5394a"><animate attributeName="r" values="6;4;6" dur="3s" begin="0.4s" repeatCount="indefinite"/></circle>
+<circle cx="862" cy="66" r="6" fill="#e79ab3"><animate attributeName="r" values="6;4;6" dur="3s" begin="0.8s" repeatCount="indefinite"/></circle>
+</svg>
